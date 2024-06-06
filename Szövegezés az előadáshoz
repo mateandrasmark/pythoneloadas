@@ -1,0 +1,17 @@
+Szövegezés a diához
+
+2. dia: A függvények a Pythonban újrafelhasználható kódrészletek. A `def` kulcsszóval definiáljuk őket. Paramétereket adhatunk meg a zárójelek között. A függvény törzsét behúzással írjuk. A `return` kulcsszóval adhatunk vissza értéket. Segítenek a kód strukturálásában és tisztábbá tételében.
+
+3. dia: A függvények használata hatékony, mert csökkentik a kód ismétlődését. Könnyebb olvasni és karbantartani a kódot. Segítenek a nagyobb programok részekre bontásában. A függvények újrafelhasználhatóak, ami gyorsítja a fejlesztést. Lehetővé teszik a moduláris programozást. Könnyebben tesztelhetők és hibakereshetők is.
+
+4.dia: Visszatérési érték
+Amint ugye a dián is olvasható, a return kulcsszóval tudjuk megadni a függvényünk visszatérési értékét. De valójában mi is ez a visszatérési érték? Ezzel tudunk különböző funkciókból kilépni és ezzel tudunk visszatérési értékeket megadni. Akár összeadásnál, azaz matematikai műveleteknél, is tudjuk használni, vagy akár szövegekkel is tudjuk használni.
+
+5.dia: A dekorátorok a Pythonban
+A python dekorátorai nem mások mint olyan függvények amelyekkel módosítani tudjuk egy adott függvény paramétereit anélkül hogy a módosítani kívánt függvény kódját átírjuk. A dekorátorokat @ (kukac) karakterrel kell bevezetni. Illetve a dekorátoroknál az eredeti függvényünk nem tárolódik el ideiglenes változóban.
+
+Argumentumok
+Az információt argumentumként tudjuk megadni egy függvényben, úgy, hogy a függvény neve után egy zárójelbe beírjuk, ezt bármennyiszer megtehetjük csak figyelni kell arra, hogy vesszővel el legyenek választva.
+
+Argumentumok száma
+A függvényt megfelelő számú argumentummal kell meghívnunk, így ha például két argumentumot vár a függvény akkor kettőt kell megadnunk, nem adhatunk meg többet vagy kevesebbet.
